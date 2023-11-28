@@ -1,0 +1,9 @@
+{
+    "setting": {
+        "serialport": "4FF8",
+        "Wscreen": 2048,
+        "Hscreen": 1152,
+        "xloc": 0,
+        "yloc": 0
+    }
+}

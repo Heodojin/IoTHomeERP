@@ -1,0 +1,70 @@
+{
+    "option": {
+        "name": "example.txt",
+        "offtime": 66,
+        "ontime": 66,
+        "randompos": false,
+        "repeatnum": 10,
+        "screenlistlength": 2,
+        "screensizex": 2048,
+        "screensizey": 1152,
+        "screentype": 0,
+        "stimuluslistlength": 4
+    },
+    "screen": {
+        "1": {
+            "fontsize": 40,
+            "screencolor": "#000000",
+            "screenfont": "font",
+            "screentext": "+",
+            "screentime": 3000,
+            "textcolor":  "#FFFFFF"
+        },
+        "2": {
+            "fontsize": 40,
+            "screencolor": "#000000",
+            "screenfont": "font",
+            "screentext": "Please Wait",
+            "screentime": 3000,
+            "textcolor": "#FFFFFF"
+        }
+    },
+    "stimulus": {
+        "1": {
+            "_h": 300,
+            "_w": 300,
+            "_x": 0,
+            "_y": 0,
+            "mainimage": "new.png",
+            "onimage": "on.png",
+            "sound": ""
+        },
+        "2": {
+            "_h": 300,
+            "_w": 300,
+            "_x": 1748,
+            "_y": 0,
+            "mainimage": "new.png",
+            "onimage": "on.png",
+            "sound": ""
+        },
+        "3": {
+            "_h": 300,
+            "_w": 300,
+            "_x": 0,
+            "_y": 852,
+            "mainimage": "new.png",
+            "onimage": "on.png",
+            "sound": ""
+        },
+        "4": {
+            "_h": 300,
+            "_w": 300,
+            "_x": 1748,
+            "_y": 852,
+            "mainimage": "new.png",
+            "onimage": "on.png",
+            "sound": ""
+        }
+    }
+}

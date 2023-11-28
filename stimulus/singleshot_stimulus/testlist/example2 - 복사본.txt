@@ -1,0 +1,70 @@
+{
+    "option": {
+        "name": "example.txt",
+        "offtime": 66,
+        "ontime": 66,
+        "randompos": false,
+        "repeatnum": 20,
+        "screenlistlength": 2,
+        "screensizex": 1280,
+        "screensizey": 960,
+        "screentype": 0,
+        "stimuluslistlength": 4
+    },
+    "screen": {
+        "1": {
+            "fontsize": 24,
+            "screencolor": "#000000",
+            "screenfont": "font",
+            "screentext": "테스트화면1",
+            "screentime": 3000,
+            "textcolor":  "#FFFFFF"
+        },
+        "2": {
+            "fontsize": 24,
+            "screencolor": "#000000",
+            "screenfont": "font",
+            "screentext": "테스트화면2",
+            "screentime": 3000,
+            "textcolor": "#FFFFFF"
+        }
+    },
+    "stimulus": {
+        "1": {
+            "_h": 300,
+            "_w": 300,
+            "_x": 0,
+            "_y": 0,
+            "mainimage": "new.png",
+            "onimage": "on.png",
+            "sound": ""
+        },
+        "2": {
+            "_h": 300,
+            "_w": 300,
+            "_x": 980,
+            "_y": 0,
+            "mainimage": "new.png",
+            "onimage": "on.png",
+            "sound": ""
+        },
+        "3": {
+            "_h": 300,
+            "_w": 300,
+            "_x": 0,
+            "_y": 660,
+            "mainimage": "new.png",
+            "onimage": "on.png",
+            "sound": ""
+        },
+        "4": {
+            "_h": 300,
+            "_w": 300,
+            "_x": 980,
+            "_y": 660,
+            "mainimage": "new.png",
+            "onimage": "on.png",
+            "sound": ""
+        }
+    }
+}
